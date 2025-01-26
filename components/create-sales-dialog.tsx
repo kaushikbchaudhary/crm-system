@@ -45,7 +45,7 @@ export function CreateSalesDialog({
   open,
   onOpenChange,
   onCreateSales,
-}: CreateSalesDialogProps) { b
+}: CreateSalesDialogProps) {
   const form = useForm<z.infer<typeof formSchema>>({
     resolver: zodResolver(formSchema),
     defaultValues: {

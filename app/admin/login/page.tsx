@@ -17,6 +17,8 @@ import { Building2 } from "lucide-react";
 import { useRouter } from "next/navigation";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import {useToast} from "@/hooks/use-toast";
+import {useContext} from "react";
+import {apiContext} from "@/infrastructure/api/ApiContext";
 
 const formSchema = z.object({
   email: z.string().email(),
@@ -25,6 +27,8 @@ const formSchema = z.object({
 
 export default function AdminLogin() {
   const router = useRouter();
+  // @ts-ignore
+    const { callApi } = useContext(apiContext);
     const { toast } = useToast();
 
 
@@ -36,9 +40,23 @@ export default function AdminLogin() {
     },
   });
 
-  function onSubmit(values: z.infer<typeof formSchema>) {
+ async function onSubmit(values: z.infer<typeof formSchema>) {
     // TODO: Implement actual authentication
+      console.log("Toast test 1")
+      console.log("values", values)
+try{
+   const response = await callApi({url:'user/login',method:"POST",body:values});
+   console.log('response:::',response);
+    toast({
+        title: 'Success',
+        description: 'login successful!',
+    });
+
+}catch(e){
+    console.error(e);
+}
     if (values.email === "admin@example.com" && values.password === "kaushik@123") {
+        console.log('Toast function executed!')
         toast({
             title: 'Success',
             description: 'login successful!',

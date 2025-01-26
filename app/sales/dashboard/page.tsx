@@ -11,6 +11,7 @@ import {
 } from "@/components/ui/table";
 import { Target, TrendingUp } from "lucide-react";
 import { Header } from "@/components/header";
+import {SalesList} from "@/components/sales-list";
 
 export default function SalesDashboard() {
   const salesUser = {
@@ -82,7 +83,7 @@ export default function SalesDashboard() {
             </Card>
           </div>
 
-          <Card className="overflow-hidden">
+          <Card className="overflow-hidden mb-6">
             <CardHeader>
               <CardTitle>Recent Deals</CardTitle>
             </CardHeader>

@@ -16,9 +16,10 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
+import {Pagination} from "@/components/ui/pagination";
 
 interface SalesListProps {
-  salesUsers: SalesUser[];
+  salesUsers: SalesUser[] | any;
 }
 
 export function SalesList({ salesUsers }: SalesListProps) {
@@ -43,7 +44,7 @@ export function SalesList({ salesUsers }: SalesListProps) {
             </TableRow>
           </TableHeader>
           <TableBody>
-            {salesUsers.map((user) => (
+            {salesUsers.length && salesUsers.map((user:any) => (
               <TableRow key={user.id}>
                 <TableCell>{user.name}</TableCell>
                 <TableCell>{user.email}</TableCell>
@@ -51,6 +52,7 @@ export function SalesList({ salesUsers }: SalesListProps) {
                 <TableCell>{user.activeDeals}</TableCell>
                 <TableCell>{user.totalDeals}</TableCell>
                 <TableCell>{new Date(user.createdAt).toLocaleDateString()}</TableCell>
+                <Pagination/>
               </TableRow>
             ))}
           </TableBody>

@@ -1,0 +1,1769 @@
+[
+  {
+    "label": "Afghanistan",
+    "code": "+93",
+    "sort": "AF",
+    "phLengthMax": 9,
+    "phLengthMin": 9,
+    "phLength": "9"
+  },
+  {
+    "label": "Albania",
+    "code": "+355",
+    "sort": "AL",
+    "phLengthMax": 9,
+    "phLengthMin": 3,
+    "phLength": "3 to 9"
+  },
+  {
+    "label": "Algeria",
+    "code": "+213",
+    "sort": "DZ",
+    "phLengthMax": 9,
+    "phLengthMin": 8,
+    "phLength": "8 or 9"
+  },
+  {
+    "label": "AmericanSamoa",
+    "code": "+1684",
+    "sort": "AS"
+  },
+  {
+    "label": "Andorra",
+    "code": "+376",
+    "sort": "AD",
+    "phLengthMax": 9,
+    "phLengthMin": 6,
+    "phLength": "6, 8 or 9"
+  },
+  {
+    "label": "Angola",
+    "code": "+244",
+    "sort": "AO",
+    "phLengthMax": 9,
+    "phLengthMin": 9,
+    "phLength": "9"
+  },
+  {
+    "label": "Anguilla",
+    "code": "+1264",
+    "sort": "AI",
+    "phLengthMax": 10,
+    "phLengthMin": 10,
+    "phLength": "(264) + 7"
+  },
+  {
+    "label": "Antarctica",
+    "code": "+672",
+    "sort": "AQ"
+  },
+  {
+    "label": "Antigua and Barbuda",
+    "code": "+1268",
+    "sort": "AG",
+    "phLengthMax": 10,
+    "phLengthMin": 10,
+    "phLength": "(268) + 7"
+  },
+  {
+    "label": "Argentina",
+    "code": "+54",
+    "sort": "AR",
+    "phLengthMax": 10,
+    "phLengthMin": 10,
+    "phLength": "10"
+  },
+  {
+    "label": "Armenia",
+    "code": "+374",
+    "sort": "AM",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Aruba",
+    "code": "+297",
+    "sort": "AW",
+    "phLengthMax": 7,
+    "phLengthMin": 7,
+    "phLength": "7"
+  },
+  {
+    "label": "Australia",
+    "code": "+61",
+    "sort": "AU",
+    "phLengthMax": 15,
+    "phLengthMin": 5,
+    "phLength": "5 to 15"
+  },
+  {
+    "label": "Austria",
+    "code": "+43",
+    "sort": "AT",
+    "phLengthMax": 13,
+    "phLengthMin": 4,
+    "phLength": "4 to 13"
+  },
+  {
+    "label": "Azerbaijan",
+    "code": "+994",
+    "sort": "AZ",
+    "phLengthMax": 9,
+    "phLengthMin": 8,
+    "phLength": "8 to 9"
+  },
+  {
+    "label": "Bahamas",
+    "code": "+1242",
+    "sort": "BS",
+    "phLengthMax": 10,
+    "phLengthMin": 10,
+    "phLength": "(242) + 7"
+  },
+  {
+    "label": "Bahrain",
+    "code": "+973",
+    "sort": "BH",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Bangladesh",
+    "code": "+880",
+    "sort": "BD",
+    "phLengthMax": 10,
+    "phLengthMin": 6,
+    "phLength": "6 to 10"
+  },
+  {
+    "label": "Barbados",
+    "code": "+1246",
+    "sort": "BB",
+    "phLengthMax": 10,
+    "phLengthMin": 10,
+    "phLength": "(246) + 7"
+  },
+  {
+    "label": "Belarus",
+    "code": "+375",
+    "sort": "BY",
+    "phLengthMax": 10,
+    "phLengthMin": 9,
+    "phLength": "9 to 10"
+  },
+  {
+    "label": "Belgium",
+    "code": "+32",
+    "sort": "BE",
+    "phLengthMax": 9,
+    "phLengthMin": 8,
+    "phLength": "8 to 9"
+  },
+  {
+    "label": "Belize",
+    "code": "+501",
+    "sort": "BZ",
+    "phLengthMax": 7,
+    "phLengthMin": 7,
+    "phLength": "7"
+  },
+  {
+    "label": "Benin",
+    "code": "+229",
+    "sort": "BJ",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Bermuda",
+    "code": "+1441",
+    "sort": "BM",
+    "phLengthMax": 10,
+    "phLengthMin": 10,
+    "phLength": "(441) + 7"
+  },
+  {
+    "label": "Bhutan",
+    "code": "+975",
+    "sort": "BT",
+    "phLengthMax": 8,
+    "phLengthMin": 7,
+    "phLength": "7 to 8"
+  },
+  {
+    "label": "Bolivia, Plurinational State of",
+    "code": "+591",
+    "sort": "BO",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Bosnia and Herzegovina",
+    "code": "+387",
+    "sort": "BA",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Botswana",
+    "code": "+267",
+    "sort": "BW",
+    "phLengthMax": 8,
+    "phLengthMin": 7,
+    "phLength": "7 to 8"
+  },
+  {
+    "label": "Brazil",
+    "code": "+55",
+    "sort": "BR",
+    "phLengthMax": 10,
+    "phLengthMin": 10,
+    "phLength": "10"
+  },
+  {
+    "label": "Brunei Darussalam",
+    "code": "+673",
+    "sort": "BN",
+    "phLengthMax": 7,
+    "phLengthMin": 7,
+    "phLength": "7"
+  },
+  {
+    "label": "Bulgaria",
+    "code": "+359",
+    "sort": "BG",
+    "phLengthMax": 9,
+    "phLengthMin": 7,
+    "phLength": "7 to 9"
+  },
+  {
+    "label": "Burkina Faso",
+    "code": "+226",
+    "sort": "BF",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Burundi",
+    "code": "+257",
+    "sort": "BI",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Cambodia",
+    "code": "+855",
+    "sort": "KH",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Cameroon",
+    "code": "+237",
+    "sort": "CM",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Canada",
+    "code": "+1",
+    "sort": "CA",
+    "phLengthMax": 10,
+    "phLengthMin": 10,
+    "phLength": "10"
+  },
+  {
+    "label": "Cape Verde",
+    "code": "+238",
+    "sort": "CV",
+    "phLengthMax": 7,
+    "phLengthMin": 7,
+    "phLength": "7"
+  },
+  {
+    "label": "Cayman Islands",
+    "code": "+ 345",
+    "sort": "KY",
+    "phLengthMax": 10,
+    "phLengthMin": 10,
+    "phLength": "(345) + 7"
+  },
+  {
+    "label": "Central African Republic",
+    "code": "+236",
+    "sort": "CF",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Chad",
+    "code": "+235",
+    "sort": "TD",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Chile",
+    "code": "+56",
+    "sort": "CL",
+    "phLengthMax": 9,
+    "phLengthMin": 8,
+    "phLength": "8 to 9"
+  },
+  {
+    "label": "China",
+    "code": "+86",
+    "sort": "CN",
+    "phLengthMax": 12,
+    "phLengthMin": 5,
+    "phLength": "5 to 12"
+  },
+  {
+    "label": "Colombia",
+    "code": "+57",
+    "sort": "CO",
+    "phLengthMax": 10,
+    "phLengthMin": 8,
+    "phLength": "8 or 10"
+  },
+  {
+    "label": "Comoros",
+    "code": "+269",
+    "sort": "KM",
+    "phLengthMax": 7,
+    "phLengthMin": 7,
+    "phLength": "7"
+  },
+  {
+    "label": "Congo",
+    "code": "+242",
+    "sort": "CG",
+    "phLengthMax": 9,
+    "phLengthMin": 3,
+    "phLength": "3 to 9"
+  },
+  {
+    "label": "Cook Islands",
+    "code": "+682",
+    "sort": "CK",
+    "phLengthMax": 5,
+    "phLengthMin": 5,
+    "phLength": "5"
+  },
+  {
+    "label": "Costa Rica",
+    "code": "+506",
+    "sort": "CR",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Cote d'Ivoire",
+    "code": "+225",
+    "sort": "CI",
+    "phLengthMax": 8,
+    "phLengthMin": 6,
+    "phLength": "6 to 8"
+  },
+  {
+    "label": "Croatia",
+    "code": "+385",
+    "sort": "HR",
+    "phLengthMax": 12,
+    "phLengthMin": 8,
+    "phLength": "8 to 12"
+  },
+  {
+    "label": "Cuba",
+    "code": "+53",
+    "sort": "CU",
+    "phLengthMax": 8,
+    "phLengthMin": 6,
+    "phLength": "6 to 8"
+  },
+  {
+    "label": "Cyprus",
+    "code": "+357",
+    "sort": "CY",
+    "phLengthMax": 11,
+    "phLengthMin": 8,
+    "phLength": "8 or 11"
+  },
+  {
+    "label": "Czech Republic",
+    "code": "+420",
+    "sort": "CZ",
+    "phLengthMax": 12,
+    "phLengthMin": 4,
+    "phLength": "4 to 12"
+  },
+  {
+    "label": "Denmark",
+    "code": "+45",
+    "sort": "DK",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Djibouti",
+    "code": "+253",
+    "sort": "DJ",
+    "phLengthMax": 6,
+    "phLengthMin": 6,
+    "phLength": "6"
+  },
+  {
+    "label": "Dominica",
+    "code": "+1767",
+    "sort": "DM",
+    "phLengthMax": 10,
+    "phLengthMin": 10,
+    "phLength": "(767) + 7"
+  },
+  {
+    "label": "Dominican Republic",
+    "code": "+1849",
+    "sort": "DO",
+    "phLengthMax": 10,
+    "phLengthMin": 10,
+    "phLength": "(809/829) + 7"
+  },
+  {
+    "label": "Ecuador",
+    "code": "+593",
+    "sort": "EC",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Egypt",
+    "code": "+20",
+    "sort": "EG",
+    "phLengthMax": 9,
+    "phLengthMin": 7,
+    "phLength": "7 to 9"
+  },
+  {
+    "label": "El Salvador",
+    "code": "+503",
+    "sort": "SV",
+    "phLengthMax": 11,
+    "phLengthMin": 7,
+    "phLength": "7, 8 or 11"
+  },
+  {
+    "label": "Equatorial Guinea",
+    "code": "+240",
+    "sort": "GQ",
+    "phLengthMax": 9,
+    "phLengthMin": 9,
+    "phLength": "9"
+  },
+  {
+    "label": "Eritrea",
+    "code": "+291",
+    "sort": "ER",
+    "phLengthMax": 7,
+    "phLengthMin": 7,
+    "phLength": "7"
+  },
+  {
+    "label": "Estonia",
+    "code": "+372",
+    "sort": "EE",
+    "phLengthMax": 10,
+    "phLengthMin": 7,
+    "phLength": "7 to 10"
+  },
+  {
+    "label": "Ethiopia",
+    "code": "+251",
+    "sort": "ET",
+    "phLengthMax": 9,
+    "phLengthMin": 9,
+    "phLength": "9"
+  },
+  {
+    "label": "Falkland Islands (Malvinas)",
+    "code": "+500",
+    "sort": "FK",
+    "phLengthMax": 5,
+    "phLengthMin": 5,
+    "phLength": "5"
+  },
+  {
+    "label": "Faroe Islands",
+    "code": "+298",
+    "sort": "FO",
+    "phLengthMax": 6,
+    "phLengthMin": 6,
+    "phLength": "6"
+  },
+  {
+    "label": "Fiji",
+    "code": "+679",
+    "sort": "FJ",
+    "phLengthMax": 7,
+    "phLengthMin": 7,
+    "phLength": "7"
+  },
+  {
+    "label": "Finland",
+    "code": "+358",
+    "sort": "FI",
+    "phLengthMax": 12,
+    "phLengthMin": 5,
+    "phLength": "5 to 12"
+  },
+  {
+    "label": "France",
+    "code": "+33",
+    "sort": "FR",
+    "phLengthMax": 9,
+    "phLengthMin": 9,
+    "phLength": "9"
+  },
+  {
+    "label": "French Guiana",
+    "code": "+594",
+    "sort": "GF",
+    "phLengthMax": 9,
+    "phLengthMin": 9,
+    "phLength": "9"
+  },
+  {
+    "label": "French Polynesia",
+    "code": "+689",
+    "sort": "PF",
+    "phLengthMax": 6,
+    "phLengthMin": 6,
+    "phLength": "6"
+  },
+  {
+    "label": "Gabon",
+    "code": "+241",
+    "sort": "GA",
+    "phLengthMax": 7,
+    "phLengthMin": 6,
+    "phLength": "6 or 7"
+  },
+  {
+    "label": "Gambia",
+    "code": "+220",
+    "sort": "GM",
+    "phLengthMax": 7,
+    "phLengthMin": 7,
+    "phLength": "7"
+  },
+  {
+    "label": "Georgia",
+    "code": "+995",
+    "sort": "GE",
+    "phLengthMax": 9,
+    "phLengthMin": 9,
+    "phLength": "9"
+  },
+  {
+    "label": "Germany",
+    "code": "+49",
+    "sort": "DE",
+    "phLengthMax": 13,
+    "phLengthMin": 6,
+    "phLength": "6 to 13"
+  },
+  {
+    "label": "Ghana",
+    "code": "+233",
+    "sort": "GH",
+    "phLengthMax": 9,
+    "phLengthMin": 5,
+    "phLength": "5 to 9"
+  },
+  {
+    "label": "Gibraltar",
+    "code": "+350",
+    "sort": "GI",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Greece",
+    "code": "+30",
+    "sort": "GR",
+    "phLengthMax": 10,
+    "phLengthMin": 10,
+    "phLength": "10"
+  },
+  {
+    "label": "Greenland",
+    "code": "+299",
+    "sort": "GL",
+    "phLengthMax": 6,
+    "phLengthMin": 6,
+    "phLength": "6"
+  },
+  {
+    "label": "Grenada",
+    "code": "+1473",
+    "sort": "GD",
+    "phLengthMax": 10,
+    "phLengthMin": 10,
+    "phLength": "(473) + 7"
+  },
+  {
+    "label": "Guadeloupe",
+    "code": "+590",
+    "sort": "GP",
+    "phLengthMax": 9,
+    "phLengthMin": 9,
+    "phLength": "9"
+  },
+  {
+    "label": "Guam",
+    "code": "+1671",
+    "sort": "GU",
+    "phLengthMax": 10,
+    "phLengthMin": 10,
+    "phLength": "(671) + 7"
+  },
+  {
+    "label": "Guatemala",
+    "code": "+502",
+    "sort": "GT",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Guinea",
+    "code": "+224",
+    "sort": "GN",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Guyana",
+    "code": "+595",
+    "sort": "GY",
+    "phLengthMax": 7,
+    "phLengthMin": 7,
+    "phLength": "7"
+  },
+  {
+    "label": "Haiti",
+    "code": "+509",
+    "sort": "HT",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Holy See (Vatican City State)",
+    "code": "+379",
+    "sort": "VA",
+    "phLengthMax": 11,
+    "phLengthMin": null,
+    "phLength": "up to 11"
+  },
+  {
+    "label": "Honduras",
+    "code": "+504",
+    "sort": "HN",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Hong Kong",
+    "code": "+852",
+    "sort": "HK",
+    "phLengthMax": 9,
+    "phLengthMin": 4,
+    "phLength": "4, 8 to 9"
+  },
+  {
+    "label": "Hungary",
+    "code": "+36",
+    "sort": "HU",
+    "phLengthMax": 9,
+    "phLengthMin": 8,
+    "phLength": "8 to 9"
+  },
+  {
+    "label": "Iceland",
+    "code": "+354",
+    "sort": "IS",
+    "phLengthMax": 9,
+    "phLengthMin": 7,
+    "phLength": "7 or 9"
+  },
+  {
+    "label": "India",
+    "code": "+91",
+    "sort": "IN",
+    "phLengthMax": 10,
+    "phLengthMin": 7,
+    "phLength": "7 to 10"
+  },
+  {
+    "label": "Indonesia",
+    "code": "+62",
+    "sort": "ID",
+    "phLengthMax": 10,
+    "phLengthMin": 5,
+    "phLength": "5 to 10"
+  },
+  {
+    "label": "Iran, Islamic Republic of Persian Gulf",
+    "code": "+98",
+    "sort": "IR",
+    "phLengthMax": 10,
+    "phLengthMin": 6,
+    "phLength": "6 to 10"
+  },
+  {
+    "label": "Iraq",
+    "code": "+964",
+    "sort": "IQ",
+    "phLengthMax": 10,
+    "phLengthMin": 8,
+    "phLength": "8 to 10"
+  },
+  {
+    "label": "Ireland",
+    "code": "+353",
+    "sort": "IE",
+    "phLengthMax": 11,
+    "phLengthMin": 7,
+    "phLength": "7 to 11"
+  },
+  {
+    "label": "Israel",
+    "code": "+972",
+    "sort": "IL",
+    "phLengthMax": 9,
+    "phLengthMin": 8,
+    "phLength": "8 to 9"
+  },
+  {
+    "label": "Italy",
+    "code": "+39",
+    "sort": "IT",
+    "phLengthMax": 11,
+    "phLengthMin": null,
+    "phLength": "up to 11"
+  },
+  {
+    "label": "Jamaica",
+    "code": "+1876",
+    "sort": "JM",
+    "phLengthMax": 10,
+    "phLengthMin": 10,
+    "phLength": "(876) + 7"
+  },
+  {
+    "label": "Japan",
+    "code": "+81",
+    "sort": "JP",
+    "phLengthMax": 13,
+    "phLengthMin": 5,
+    "phLength": "5 to 13"
+  },
+  {
+    "label": "Jordan",
+    "code": "+962",
+    "sort": "JO",
+    "phLengthMax": 9,
+    "phLengthMin": 5,
+    "phLength": "5 to 9"
+  },
+  {
+    "label": "Kazakhstan",
+    "code": "+77",
+    "sort": "KZ",
+    "phLengthMax": 10,
+    "phLengthMin": 10,
+    "phLength": "10"
+  },
+  {
+    "label": "Kenya",
+    "code": "+254",
+    "sort": "KE",
+    "phLengthMax": 10,
+    "phLengthMin": 6,
+    "phLength": "6 to 10"
+  },
+  {
+    "label": "Kiribati",
+    "code": "+686",
+    "sort": "KI",
+    "phLengthMax": 5,
+    "phLengthMin": 5,
+    "phLength": "5"
+  },
+  {
+    "label": "Korea, Republic of South Korea",
+    "code": "+82",
+    "sort": "KR",
+    "phLengthMax": 11,
+    "phLengthMin": 8,
+    "phLength": "8 to 11"
+  },
+  {
+    "label": "Kuwait",
+    "code": "+965",
+    "sort": "KW",
+    "phLengthMax": 8,
+    "phLengthMin": 7,
+    "phLength": "7 or 8"
+  },
+  {
+    "label": "Kyrgyzstan",
+    "code": "+996",
+    "sort": "KG",
+    "phLengthMax": 9,
+    "phLengthMin": 9,
+    "phLength": "9"
+  },
+  {
+    "label": "Laos",
+    "code": "+856",
+    "sort": "LA",
+    "phLengthMax": 10,
+    "phLengthMin": 8,
+    "phLength": "8 to 10"
+  },
+  {
+    "label": "Latvia",
+    "code": "+371",
+    "sort": "LV",
+    "phLengthMax": 8,
+    "phLengthMin": 7,
+    "phLength": "7 or 8"
+  },
+  {
+    "label": "Lebanon",
+    "code": "+961",
+    "sort": "LB",
+    "phLengthMax": 8,
+    "phLengthMin": 7,
+    "phLength": "7 to 8"
+  },
+  {
+    "label": "Lesotho",
+    "code": "+266",
+    "sort": "LS",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Liberia",
+    "code": "+231",
+    "sort": "LR",
+    "phLengthMax": 8,
+    "phLengthMin": 7,
+    "phLength": "7 to 8"
+  },
+  {
+    "label": "Libyan Arab Jamahiriya",
+    "code": "+218",
+    "sort": "LY",
+    "phLengthMax": 9,
+    "phLengthMin": 8,
+    "phLength": "8 to 9"
+  },
+  {
+    "label": "Liechtenstein",
+    "code": "+423",
+    "sort": "LI",
+    "phLengthMax": 9,
+    "phLengthMin": 7,
+    "phLength": "7 to 9"
+  },
+  {
+    "label": "Lithuania",
+    "code": "+370",
+    "sort": "LT",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Luxembourg",
+    "code": "+352",
+    "sort": "LU",
+    "phLengthMax": 11,
+    "phLengthMin": 4,
+    "phLength": "4 to 11"
+  },
+  {
+    "label": "Madagascar",
+    "code": "+261",
+    "sort": "MG",
+    "phLengthMax": 10,
+    "phLengthMin": 9,
+    "phLength": "9 to 10"
+  },
+  {
+    "label": "Malawi",
+    "code": "+265",
+    "sort": "MW",
+    "phLengthMax": 8,
+    "phLengthMin": 7,
+    "phLength": "7 or 8"
+  },
+  {
+    "label": "Malaysia",
+    "code": "+60",
+    "sort": "MY",
+    "phLengthMax": 9,
+    "phLengthMin": 7,
+    "phLength": "7 to 9"
+  },
+  {
+    "label": "Maldives",
+    "code": "+960",
+    "sort": "MV",
+    "phLengthMax": 7,
+    "phLengthMin": 7,
+    "phLength": "7"
+  },
+  {
+    "label": "Mali",
+    "code": "+223",
+    "sort": "ML",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Malta",
+    "code": "+356",
+    "sort": "MT",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Marshall Islands",
+    "code": "+692",
+    "sort": "MH",
+    "phLengthMax": 7,
+    "phLengthMin": 7,
+    "phLength": "7"
+  },
+  {
+    "label": "Martinique",
+    "code": "+596",
+    "sort": "MQ",
+    "phLengthMax": 9,
+    "phLengthMin": 9,
+    "phLength": "9"
+  },
+  {
+    "label": "Mauritania",
+    "code": "+222",
+    "sort": "MR",
+    "phLengthMax": 7,
+    "phLengthMin": 7,
+    "phLength": "7"
+  },
+  {
+    "label": "Mauritius",
+    "code": "+230",
+    "sort": "MU",
+    "phLengthMax": 7,
+    "phLengthMin": 7,
+    "phLength": "7"
+  },
+  {
+    "label": "Mayotte",
+    "code": "+262",
+    "sort": "YT"
+  },
+  {
+    "label": "Mexico",
+    "code": "+52",
+    "sort": "MX",
+    "phLengthMax": 10,
+    "phLengthMin": 10,
+    "phLength": "10"
+  },
+  {
+    "label": "Micronesia, Federated States of Micronesia",
+    "code": "+691",
+    "sort": "FM",
+    "phLengthMax": 7,
+    "phLengthMin": 7,
+    "phLength": "7"
+  },
+  {
+    "label": "Moldova",
+    "code": "+373",
+    "sort": "MD",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "'8'"
+  },
+  {
+    "label": "Monaco",
+    "code": "+377",
+    "sort": "MC",
+    "phLengthMax": 9,
+    "phLengthMin": 5,
+    "phLength": "5 to 9"
+  },
+  {
+    "label": "Mongolia",
+    "code": "+976",
+    "sort": "MN",
+    "phLengthMax": 8,
+    "phLengthMin": 7,
+    "phLength": "7 to 8"
+  },
+  {
+    "label": "Montenegro",
+    "code": "+382",
+    "sort": "ME",
+    "phLengthMax": 12,
+    "phLengthMin": 4,
+    "phLength": "4 to 12"
+  },
+  {
+    "label": "Montserrat",
+    "code": "+1664",
+    "sort": "MS",
+    "phLengthMax": 10,
+    "phLengthMin": 10,
+    "phLength": "(664) + 7"
+  },
+  {
+    "label": "Morocco",
+    "code": "+212",
+    "sort": "MA",
+    "phLengthMax": 9,
+    "phLengthMin": 9,
+    "phLength": "9"
+  },
+  {
+    "label": "Mozambique",
+    "code": "+258",
+    "sort": "MZ",
+    "phLengthMax": 9,
+    "phLengthMin": 8,
+    "phLength": "8 to 9"
+  },
+  {
+    "label": "Myanmar",
+    "code": "+95",
+    "sort": "MM",
+    "phLengthMax": 9,
+    "phLengthMin": 7,
+    "phLength": "7 to 9"
+  },
+  {
+    "label": "Namibia",
+    "code": "+264",
+    "sort": "NA",
+    "phLengthMax": 10,
+    "phLengthMin": 6,
+    "phLength": "6 to 10"
+  },
+  {
+    "label": "Nauru",
+    "code": "+674",
+    "sort": "NR",
+    "phLengthMax": 7,
+    "phLengthMin": 4,
+    "phLength": "4 or 7"
+  },
+  {
+    "label": "Nepal",
+    "code": "+977",
+    "sort": "NP",
+    "phLengthMax": 9,
+    "phLengthMin": 8,
+    "phLength": "8 to 9"
+  },
+  {
+    "label": "Netherlands",
+    "code": "+31",
+    "sort": "NL",
+    "phLengthMax": 9,
+    "phLengthMin": 9,
+    "phLength": "9"
+  },
+  {
+    "label": "New Caledonia",
+    "code": "+687",
+    "sort": "NC",
+    "phLengthMax": 6,
+    "phLengthMin": 6,
+    "phLength": "6"
+  },
+  {
+    "label": "New Zealand",
+    "code": "+64",
+    "sort": "NZ",
+    "phLengthMax": 10,
+    "phLengthMin": 3,
+    "phLength": "3 to 10"
+  },
+  {
+    "label": "Nicaragua",
+    "code": "+505",
+    "sort": "NI",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Niger",
+    "code": "+227",
+    "sort": "NE",
+    "phLengthMax": 8,
+    "pphLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Nigeria",
+    "code": "+234",
+    "sort": "NG",
+    "phLengthMax": 10,
+    "phLengthMin": 7,
+    "phLength": "7 to 10"
+  },
+  {
+    "label": "Niue",
+    "code": "+683",
+    "sort": "NU",
+    "phLengthMax": 14,
+    "phLengthMin": 4,
+    "phLength": "4"
+  },
+  {
+    "label": "Norway",
+    "code": "+47",
+    "sort": "NO",
+    "phLengthMax": 8,
+    "phLengthMin": 5,
+    "phLength": "5 or 8"
+  },
+  {
+    "label": "Oman",
+    "code": "+968",
+    "sort": "OM",
+    "phLengthMax": 8,
+    "phLengthMin": 7,
+    "phLength": "7 to 8"
+  },
+  {
+    "label": "Pakistan",
+    "code": "+92",
+    "sort": "PK",
+    "phLengthMax": 11,
+    "phLengthMin": 8,
+    "phLength": "8 to 11"
+  },
+  {
+    "label": "Palau",
+    "code": "+680",
+    "sort": "PW",
+    "phLengthMax": 7,
+    "phLengthMin": 7,
+    "phLength": "7"
+  },
+  {
+    "label": "Panama",
+    "code": "+507",
+    "sort": "PA",
+    "phLengthMax": 8,
+    "phLengthMin": 7,
+    "phLength": "7 or 8"
+  },
+  {
+    "label": "Papua New Guinea",
+    "code": "+675",
+    "sort": "PG",
+    "phLengthMax": 11,
+    "phLengthMin": 4,
+    "phLength": "4 to 11"
+  },
+  {
+    "label": "Paraguay",
+    "code": "+595",
+    "sort": "PY",
+    "phLengthMax": 9,
+    "phLengthMin": 5,
+    "phLength": "5 to 9"
+  },
+  {
+    "label": "Peru",
+    "code": "+51",
+    "sort": "PE",
+    "phLengthMax": 11,
+    "phLengthMin": 8,
+    "phLength": "8 to 11"
+  },
+  {
+    "label": "Philippines",
+    "code": "+63",
+    "sort": "PH",
+    "phLengthMax": 10,
+    "phLengthMin": 8,
+    "phLength": "8 to 10"
+  },
+  {
+    "label": "Poland",
+    "code": "+48",
+    "sort": "PL",
+    "phLengthMax": 9,
+    "phLengthMin": 6,
+    "phLength": "6 to 9"
+  },
+  {
+    "label": "Portugal",
+    "code": "+351",
+    "sort": "PT",
+    "phLengthMax": 11,
+    "phLengthMin": 9,
+    "phLength": "9 or 11"
+  },
+  {
+    "label": "Puerto Rico",
+    "code": "+1939",
+    "sort": "PR",
+    "phLengthMax": 10,
+    "phLengthMin": 10,
+    "phLength": "(787/939) + 7"
+  },
+  {
+    "label": "Qatar",
+    "code": "+974",
+    "sort": "QA",
+    "phLengthMax": 8,
+    "phLengthMin": 3,
+    "phLength": "3 to 8"
+  },
+  {
+    "label": "Romania",
+    "code": "+40",
+    "sort": "RO",
+    "phLengthMax": 9,
+    "phLengthMin": 9,
+    "phLength": "9"
+  },
+  {
+    "label": "Russia",
+    "code": "+7",
+    "sort": "RU",
+    "phLengthMax": 10,
+    "phLengthMin": 10,
+    "phLength": "10"
+  },
+  {
+    "label": "Rwanda",
+    "code": "+250",
+    "sort": "RW",
+    "phLengthMax": 9,
+    "phLengthMin": 9,
+    "phLength": "9"
+  },
+  {
+    "label": "Saint Kitts and Nevis",
+    "code": "+1869",
+    "sort": "KN",
+    "phLengthMax": 10,
+    "phLengthMin": 10,
+    "phLength": "(869) + 7"
+  },
+  {
+    "label": "Saint Lucia",
+    "code": "+1758",
+    "sort": "LC",
+    "phLengthMax": 10,
+    "phLengthMin": 10,
+    "phLength": "(758) + 7"
+  },
+  {
+    "label": "Saint Pierre and Miquelon",
+    "code": "+508",
+    "sort": "PM",
+    "phLengthMax": 6,
+    "phLengthMin": 6,
+    "phLength": "6"
+  },
+  {
+    "label": "Saint Vincent and the Grenadines",
+    "code": "+1784",
+    "sort": "VC",
+    "phLengthMax": 10,
+    "phLengthMin": 10,
+    "phLength": "(784) + 7"
+  },
+  {
+    "label": "Samoa",
+    "code": "+685",
+    "sort": "WS",
+    "phLengthMax": 7,
+    "phLengthMin": 3,
+    "phLength": "3 to 7"
+  },
+  {
+    "label": "San Marino",
+    "code": "+378",
+    "sort": "SM",
+    "phLengthMax": 10,
+    "phLengthMin": 6,
+    "phLength": "6 to 10"
+  },
+  {
+    "label": "Sao Tome and Principe",
+    "code": "+239",
+    "sort": "ST",
+    "phLengthMax": 7,
+    "phLengthMin": 7,
+    "phLength": "7"
+  },
+  {
+    "label": "Saudi Arabia",
+    "code": "+966",
+    "sort": "SA",
+    "phLengthMax": 9,
+    "phLengthMin": 8,
+    "phLength": "8 to 9"
+  },
+  {
+    "label": "Senegal",
+    "code": "+221",
+    "sort": "SN",
+    "phLengthMax": 9,
+    "phLengthMin": 9,
+    "phLength": "9"
+  },
+  {
+    "label": "Serbia",
+    "code": "+381",
+    "sort": "RS",
+    "phLengthMax": 12,
+    "phLengthMin": 4,
+    "phLength": "4 to 12"
+  },
+  {
+    "label": "Seychelles",
+    "code": "+248",
+    "sort": "SC",
+    "phLengthMax": 7,
+    "phLengthMin": 7,
+    "phLength": "7"
+  },
+  {
+    "label": "Sierra Leone",
+    "code": "+232",
+    "sort": "SL",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Singapore",
+    "code": "+65",
+    "sort": "SG",
+    "phLengthMax": 12,
+    "phLengthMin": 8,
+    "phLength": "8 to 12"
+  },
+  {
+    "label": "Slovakia",
+    "code": "+421",
+    "sort": "SK",
+    "phLengthMax": 9,
+    "phLengthMin": 4,
+    "phLength": "4 to 9"
+  },
+  {
+    "label": "Slovenia",
+    "code": "+386",
+    "sort": "SI",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Solomon Islands",
+    "code": "+677",
+    "sort": "SB",
+    "phLengthMax": 5,
+    "phLengthMin": 5,
+    "phLength": "5"
+  },
+  {
+    "label": "Somalia",
+    "code": "+252",
+    "sort": "SO",
+    "phLengthMax": 8,
+    "phLengthMin": 5,
+    "phLength": "5 to 8"
+  },
+  {
+    "label": "South Africa",
+    "code": "+27",
+    "sort": "ZA",
+    "phLengthMax": 9,
+    "phLengthMin": 9,
+    "phLength": "9"
+  },
+  {
+    "label": "South Sudan",
+    "code": "+211",
+    "sort": "SS",
+    "phLengthMax": 9,
+    "phLengthMin": 9,
+    "phLength": "9"
+  },
+  {
+    "label": "Spain",
+    "code": "+34",
+    "sort": "ES",
+    "phLengthMax": 9,
+    "phLengthMin": 9,
+    "phLength": "9"
+  },
+  {
+    "label": "Sri Lanka",
+    "code": "+94",
+    "sort": "LK",
+    "phLengthMax": 9,
+    "phLengthMin": 9,
+    "phLength": "9"
+  },
+  {
+    "label": "Sweden",
+    "code": "+46",
+    "sort": "SE",
+    "phLengthMax": 13,
+    "phLengthMin": 7,
+    "phLength": "7 to 13"
+  },
+  {
+    "label": "Switzerland",
+    "code": "+41",
+    "sort": "CH",
+    "phLengthMax": 12,
+    "phLengthMin": 4,
+    "phLength": "4 to 12"
+  },
+  {
+    "label": "Syrian Arab Republic",
+    "code": "+963",
+    "sort": "SY",
+    "phLengthMax": 10,
+    "phLengthMin": 8,
+    "phLength": "8 to 10"
+  },
+  {
+    "label": "Taiwan",
+    "code": "+886",
+    "sort": "TW",
+    "phLengthMax": 9,
+    "phLengthMin": 8,
+    "phLength": "8 to 9"
+  },
+  {
+    "label": "Tajikistan",
+    "code": "+992",
+    "sort": "TJ",
+    "phLengthMax": 9,
+    "phLengthMin": 9,
+    "phLength": "9"
+  },
+  {
+    "label": "Tanzania, United Republic of Tanzania",
+    "code": "+255",
+    "sort": "TZ",
+    "phLengthMax": 9,
+    "phLengthMin": 9,
+    "phLength": "9"
+  },
+  {
+    "label": "Thailand",
+    "code": "+66",
+    "sort": "TH",
+    "phLengthMax": 9,
+    "phLengthMin": 8,
+    "phLength": "8 or 9"
+  },
+  {
+    "label": "Togo",
+    "code": "+228",
+    "sort": "TG",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Tokelau",
+    "code": "+690",
+    "sort": "TK",
+    "phLengthMax": 4,
+    "phLengthMin": 4,
+    "phLength": "4"
+  },
+  {
+    "label": "Tonga",
+    "code": "+676",
+    "sort": "TO",
+    "phLengthMax": 7,
+    "phLengthMin": 5,
+    "phLength": "5 or 7"
+  },
+  {
+    "label": "Trinidad and Tobago",
+    "code": "+1868",
+    "sort": "TT",
+    "phLengthMax": 10,
+    "phLengthMin": 10,
+    "phLength": "(868) + 7"
+  },
+  {
+    "label": "Tunisia",
+    "code": "+216",
+    "sort": "TN",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Turkey",
+    "code": "+90",
+    "sort": "TR",
+    "phLengthMax": 10,
+    "phLengthMin": 10,
+    "phLength": "10"
+  },
+  {
+    "label": "Turkmenistan",
+    "code": "+993",
+    "sort": "TM",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Turks and Caicos Islands",
+    "code": "+1649",
+    "sort": "TC",
+    "phLengthMax": 10,
+    "phLengthMin": 10,
+    "phLength": "(649) + 7"
+  },
+  {
+    "label": "Tuvalu",
+    "code": "+688",
+    "sort": "TV",
+    "phLengthMax": 6,
+    "phLengthMin": 5,
+    "phLength": "5 or 6"
+  },
+  {
+    "label": "Uganda",
+    "code": "+256",
+    "sort": "UG",
+    "phLengthMax": 9,
+    "phLengthMin": 9,
+    "phLength": "9"
+  },
+  {
+    "label": "Ukraine",
+    "code": "+380",
+    "sort": "UA",
+    "phLengthMax": 9,
+    "phLengthMin": 9,
+    "phLength": "9"
+  },
+  {
+    "label": "United Arab Emirates",
+    "code": "+971",
+    "sort": "AE",
+    "phLengthMax": 9,
+    "phLengthMin": 8,
+    "phLength": "8 to 9"
+  },
+  {
+    "label": "United Kingdom",
+    "code": "+44",
+    "sort": "GB",
+    "phLengthMax": 10,
+    "phLengthMin": 7,
+    "phLength": "7 to 10"
+  },
+  {
+    "label": "United States",
+    "code": "+1",
+    "sort": "US",
+    "phLengthMax": 10,
+    "phLengthMin": 10,
+    "phLength": "10"
+  },
+  {
+    "label": "Uruguay",
+    "code": "+598",
+    "sort": "UY",
+    "phLengthMax": 11,
+    "phLengthMin": 4,
+    "phLength": "4 to 11"
+  },
+  {
+    "label": "Uzbekistan",
+    "code": "+998",
+    "sort": "UZ",
+    "phLengthMax": 9,
+    "phLengthMin": 9,
+    "phLength": "9"
+  },
+  {
+    "label": "Vanuatu",
+    "code": "+678",
+    "sort": "VU",
+    "phLengthMax": 7,
+    "phLengthMin": 5,
+    "phLength": "5 or 7"
+  },
+  {
+    "label": "Venezuela, Bolivarian Republic of Venezuela",
+    "code": "+58",
+    "sort": "VE",
+    "phLengthMax": 10,
+    "phLengthMin": 10,
+    "phLength": "10"
+  },
+  {
+    "label": "Vietnam",
+    "code": "+84",
+    "sort": "VN",
+    "phLengthMax": 10,
+    "phLengthMin": 7,
+    "phLength": "7 to 10"
+  },
+  {
+    "label": "Wallis and Futuna",
+    "code": "+681",
+    "sort": "WF",
+    "phLengthMax": 6,
+    "phLengthMin": 6,
+    "phLength": "6"
+  },
+  {
+    "label": "Yemen",
+    "code": "+967",
+    "sort": "YE",
+    "phLengthMax": 9,
+    "phLengthMin": 6,
+    "phLength": "6 to 9"
+  },
+  {
+    "label": "Zambia",
+    "code": "+260",
+    "sort": "ZM",
+    "phLengthMax": 9,
+    "phLengthMin": 9,
+    "phLength": "9"
+  },
+  {
+    "label": "Zimbabwe",
+    "code": "+263",
+    "sort": "ZW",
+    "phLengthMax": 10,
+    "phLengthMin": 5,
+    "phLength": "5 to 10"
+  },
+  {
+    "label": "North Korea",
+    "code": "+850",
+    "sort": "NK",
+    "phLengthMax": 17,
+    "phLengthMin": 6,
+    "phLength": "6 to 17"
+  },
+  {
+    "label": "ivory coast",
+    "code": "+225",
+    "sort": "IC",
+    "phLengthMax": 10,
+    "phLengthMin": 10,
+    "phLength": "10"
+  },
+  {
+    "label": "Eswatini",
+    "code": "+268",
+    "sort": "Es",
+    "phLengthMax": 8,
+    "phLengthMin": 8,
+    "phLength": "8"
+  },
+  {
+    "label": "Suriname",
+    "code": "+597",
+    "sort": "Su",
+    "phLengthMax": 7,
+    "phLengthMin": 7,
+    "phLength": "7"
+  },
+  {
+    "label": "Curacao",
+    "code": "+5999",
+    "sort": "Cu",
+    "phLengthMax": 7,
+    "phLengthMin": 7,
+    "phLength": "7"
+  },
+  {
+    "label": "United States Virgin Islands",
+    "code": "+1 340",
+    "sort": "USVI",
+    "phLengthMax": 7,
+    "phLengthMin": 7,
+    "phLength": "7"
+  },
+  {
+    "label": "American Samoa",
+    "code": "+1 684",
+    "sort": "AS",
+    "phLengthMax": 7,
+    "phLengthMin": 7,
+    "phLength": "7"
+  },
+  {
+    "label": "Sint Maarten",
+    "code": "+1 721",
+    "sort": "SM",
+    "phLengthMax": 7,
+    "phLengthMin": 7,
+    "phLength": "7"
+  },
+  {
+    "label": "British Virgin Islands",
+    "code": "+1 284",
+    "sort": "BVI",
+    "phLengthMax": 7,
+    "phLengthMin": 7,
+    "phLength": "7"
+  }
+]
